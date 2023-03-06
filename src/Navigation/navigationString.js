@@ -6,4 +6,5 @@ export default {
   CATAGORIES: "Catagories",
   EXPLORE: "Explore",
   NOTIFICATIONS: "Notifications",
+  SIGNUP:"Signup"
 };
