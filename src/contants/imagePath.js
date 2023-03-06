@@ -1,0 +1,26 @@
+export default {
+  iconCatagories: require("../assets/image/cat.png"),
+  account: require("../assets/image/account.png"),
+  cart: require("./../assets/image/cart.png"),
+  home: require("./../assets/image/home.png"),
+  NotificationImage: require("./../assets/image/Notifications.png"),
+  flipkartIcone: require('./../assets/image/flipkart.png'),
+  flipkartGr: require('./../assets/image/flipkartGr.png'),
+  search: require('./../assets/image/search.png'),
+  imageOne:require('./../assets/image/one.png'),
+  imageTwo:require('./../assets/image/three.png'),
+  imagethree:require('./../assets/image/four.png'),
+  add: require('./../assets/image/add.png'),
+  voucher:require('./../assets/image/voucher.png'),
+  play:require('./../assets/image/play.png'),
+  megaphone:require('./../assets/image/megaphone.png'),
+  credit:require('./../assets/image/credit-card.png'),
+  coin:require('./../assets/image/coin.png'),
+  recentItem:require('./../assets/image/recentItem.png'),
+  order: require('./../assets/image/zone.png'),
+  question:require('./../assets/image/question.png'),
+  heart:require('./../assets/image/heart.png'),
+  whiteSearch:require('./../assets/image/whiteSearch.png'),
+
+
+};
