@@ -39,6 +39,9 @@ export default function Cart() {
       <Button title="getUserList" onPress={getUserList} />
       <Button title="add users" onPress={addUser} />
       <Button title="remove " onPress={removeUser} />
+      <Button title="getUserList" onPress={getUserList} />
+      <Button title="add users" onPress={addUser} />
+      <Button title="remove " onPress={removeUser} />
       <Text></Text>
     </View>
   );
